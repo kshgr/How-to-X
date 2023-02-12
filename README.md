@@ -10,3 +10,5 @@ Learn How To do a plethora of things when coding through small video tutorials a
 ## Python
 
 - [How to Create requirements.txt](https://github.com/kshgr/How-to-X/tree/main/Create%20requirements.txt)
+- [How to Convert List to String](https://github.com/kshgr/How-to-X/tree/main/Convert%20List%20to%20String)
+- [How to Convert Binary to Decimal](https://github.com/kshgr/How-to-X/tree/main/Convert%20Binary%20to%20Decimal)
